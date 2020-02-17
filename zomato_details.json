@@ -1,0 +1,1376 @@
+[
+  {
+    "hotel_name": "One8 Commune",
+    "address": "8, World Mark 2, IGI Airport, Aerocity, New Delhi",
+    "cuisines_available": [
+      "Cafe",
+      " Italian",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b91,300",
+    "timing": "11:30am \u2013 10pm (Mon-Sun)",
+    "feautred_in": [
+      "For The Family",
+      " Outdoor Seating",
+      " Romantic",
+      " Insta-Worthy"
+    ]
+  },
+  {
+    "hotel_name": "Parikrama - The Revolving Restaurant",
+    "address": "22, Antriksh Bhavan, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Kebab"
+    ],
+    "cost_per_two": "\u20b96,500",
+    "timing": "12:30pm \u2013 3pm, 7pm \u2013 11:45pm (Mon-Sun)",
+    "feautred_in": [
+      "Legendary Outlets",
+      " Luxury Dining",
+      " Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "Olive Bar & Kitchen",
+    "address": "6-8, Kalka Das Marg, Mehrauli, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Chinese",
+      " Continental",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b91,800",
+    "timing": "12:30pm \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Pocket Friendly Bars",
+      " Food Hygiene Rated Restaurants",
+      " For The Family"
+    ]
+  },
+  {
+    "hotel_name": "AB's - Absolute Barbecues",
+    "address": "Shop 1-3, Lower Ground, MGF Metropolis Mall, MG Road, Gurgaon",
+    "cuisines_available": [
+      "North Indian",
+      " Chinese",
+      " BBQ"
+    ],
+    "cost_per_two": "\u20b91,600",
+    "timing": "12noon \u2013 3:30pm, 6:30pm \u2013 11:30pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Diggin",
+    "address": "10, Santushti Shopping Complex, Race Course Road, Chanakyapuri, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Mughlai"
+    ],
+    "cost_per_two": "\u20b91,800",
+    "timing": "12noon \u2013 4pm, 6:30pm \u2013 11pm (Mon-Sun)",
+    "feautred_in": [
+      "Great Buffets"
+    ]
+  },
+  {
+    "hotel_name": "Bukhara - ITC Maurya",
+    "address": "ITC Maurya, Chanakyapuri, New Delhi",
+    "cuisines_available": [
+      "Modern Indian"
+    ],
+    "cost_per_two": "\u20b95,000",
+    "timing": "12noon \u2013 2:30pm, 7pm \u2013 10:30pm (Mon-Sun)",
+    "feautred_in": [
+      "Romantic",
+      " Luxury Dining",
+      " Legendary Outlets",
+      " Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "Ardor 2.1",
+    "address": "N-55/56 & 88/89, Outer Circle, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "Spanish",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b94,500",
+    "timing": "7pm \u2013 11:45pm (Mon-Sun)",
+    "feautred_in": [
+      "Luxury Dining",
+      " Romantic",
+      " Outdoor Seating",
+      " Trending This Week"
+    ]
+  },
+  {
+    "hotel_name": "Barbeque Nation",
+    "address": "2nd Floor, Munshilal Building, Block N, Outer Circle, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Chinese",
+      " Biryani",
+      " American",
+      " Continental"
+    ],
+    "cost_per_two": "\u20b91,300",
+    "timing": "11am \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Best Bars and Pubs",
+      " Live Sports Screenings",
+      " Best of Delhi NCR",
+      " Insta-Worthy",
+      " Artisan Cocktails"
+    ]
+  },
+  {
+    "hotel_name": "Pirates of Grill",
+    "address": "C 417, 3rd Floor, DLF Mall of India, Sector 18, Noida",
+    "cuisines_available": [
+      "Finger Food",
+      " Modern Indian",
+      " Asian",
+      " Continental",
+      " North Indian"
+    ],
+    "cost_per_two": "\u20b91,800",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Sneak Peek Delhi",
+      " Live Music",
+      " Rooftops",
+      " Best Bars and Pubs"
+    ]
+  },
+  {
+    "hotel_name": "Indian Accent",
+    "address": "The Lodhi, Lodhi Road, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " South Indian",
+      " Cafe"
+    ],
+    "cost_per_two": "\u20b92,500",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Artisan Cocktails"
+    ]
+  },
+  {
+    "hotel_name": "Sevilla - The Claridges",
+    "address": "The Claridges, 12, Dr. A.P.J. Abdul Kalam Road, Aurangzeb Road, New Delhi",
+    "cuisines_available": [
+      "European",
+      " Turkish"
+    ],
+    "cost_per_two": "\u20b93,200",
+    "timing": "12noon \u2013 12:30am (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Dramz",
+    "address": "1580/1, KD Marg, Near Qutub Minar, Mehrauli, New Delhi",
+    "cuisines_available": [
+      "European",
+      " Modern Indian",
+      " Asian"
+    ],
+    "cost_per_two": "\u20b93,200",
+    "timing": "12:30pm \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Trending This Week"
+    ]
+  },
+  {
+    "hotel_name": "Romeo Lane",
+    "address": "13, 2nd Floor, Alipur Road, Civil Lines, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Continental",
+      " Italian",
+      " Asian"
+    ],
+    "cost_per_two": "\u20b91,900",
+    "timing": "11am \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Outdoor Seating",
+      " Rooftops"
+    ]
+  },
+  {
+    "hotel_name": "Wenger's",
+    "address": "A 16, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "Bakery",
+      " Fast Food",
+      " Desserts"
+    ],
+    "cost_per_two": "\u20b9400",
+    "timing": "11am \u2013 8pm (Mon-Sun)",
+    "feautred_in": [
+      "Legendary Outlets"
+    ]
+  },
+  {
+    "hotel_name": "Banter",
+    "address": "31- B, Pusa Road, Rajinder Nagar, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Continental",
+      " Italian",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b91,500",
+    "timing": "12noon \u2013 12midnight (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "The Forestta",
+    "address": "Plot 27, Opposite Alchemist Hospital, Saraswati Kunj, Suncity, Sector 54, Gurgaon",
+    "cuisines_available": [
+      "North Indian",
+      " Chinese",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b91,000",
+    "timing": "12midnight \u2013 4:28am, 5pm \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "Outdoor Seating",
+      " Places Serving More Than Just Food!"
+    ]
+  },
+  {
+    "hotel_name": "Saravana Bhavan",
+    "address": "P-13, Connaught Circus, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "South Indian",
+      " Mithai",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b9500",
+    "timing": "8am \u2013 11pm (Mon-Sun)",
+    "feautred_in": [
+      "Legendary Outlets",
+      " Great Breakfasts",
+      " For The Family",
+      " South Indian Delights"
+    ]
+  },
+  {
+    "hotel_name": "Qla",
+    "address": "4-A, Seven Style Mile, Kalka Das Marg, Kila, Beside Qutab Minar, Mehrauli, New Delhi",
+    "cuisines_available": [
+      "European",
+      " Italian",
+      " Spanish"
+    ],
+    "cost_per_two": "\u20b93,000",
+    "timing": "12noon \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Romantic",
+      " Outdoor Seating",
+      " Trending This Week"
+    ]
+  },
+  {
+    "hotel_name": "Jungle Jamboree",
+    "address": "FD 03, 2nd Floor, Logix City Centre, Sector 32, Near Sector 34, Noida",
+    "cuisines_available": [
+      "North Indian",
+      " Continental",
+      " Chinese"
+    ],
+    "cost_per_two": "\u20b91,500",
+    "timing": "11:45am \u2013 11pm (Mon-Sun)",
+    "feautred_in": [
+      "Places Serving More Than Just Food!",
+      " Sneak Peek Delhi",
+      " Great Buffets"
+    ]
+  },
+  {
+    "hotel_name": "Runway1",
+    "address": "Metro Walk Mall, Sector 10, Rohini, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Mughlai",
+      " Chinese",
+      " Fast Food",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b91,000",
+    "timing": "10:30am \u2013 11:30pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Leo's",
+    "address": "28, Basant Lok Market, Vasant Vihar, New Delhi",
+    "cuisines_available": [
+      "Cafe",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b91,700",
+    "timing": "12noon \u2013 11:30pm (Mon-Thu),12noon \u2013 12midnight...",
+    "feautred_in": [
+      "Best Pizza Places In Town",
+      " Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "Lord Of The Drinks",
+    "address": "G-72, 1st Floor, Outer Circle, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "European",
+      " Chinese",
+      " North Indian",
+      " Italian",
+      " Asian"
+    ],
+    "cost_per_two": "\u20b92,500",
+    "timing": "11am \u2013 12:45am (Mon-Sun)",
+    "feautred_in": [
+      "New on Gold",
+      " Boozy Bars"
+    ]
+  },
+  {
+    "hotel_name": "Xero Degrees",
+    "address": "L-23/9, Middle Circle, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "Cafe",
+      " Fast Food",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b9750",
+    "timing": "12:30pm \u2013 11pm (Mon-Sun)",
+    "feautred_in": [
+      "Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "Boa Village",
+    "address": "13, Alipur Road, Civil Lines, New Delhi",
+    "cuisines_available": [
+      "Asian",
+      " Japanese",
+      " Korean",
+      " Chinese",
+      " Momos",
+      " Thai"
+    ],
+    "cost_per_two": "\u20b92,300",
+    "timing": "11:30am \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Rooftops",
+      " Food Hygiene Rated Restaurants",
+      " Pan-Asian Delicacies"
+    ]
+  },
+  {
+    "hotel_name": "Dragonfly Experience",
+    "address": "Worldmark 1, Aerocity, New Delhi",
+    "cuisines_available": [
+      "Finger Food",
+      " European",
+      " Asian",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b94,000",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "New on Gold",
+      " Best of Gold"
+    ]
+  },
+  {
+    "hotel_name": "Padmanabham",
+    "address": "52, Atul Grove Road, Opposite Metro Gate 2, Janpath, New Delhi",
+    "cuisines_available": [
+      "South Indian",
+      " North Indian",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b9600",
+    "timing": "11am \u2013 11pm (Mon-Sun)",
+    "feautred_in": [
+      "Newly Opened"
+    ]
+  },
+  {
+    "hotel_name": "Tamasha",
+    "address": "28, Block A, Kasturba Gandhi Marg, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "Finger Food",
+      " North Indian",
+      " Continental",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b91,600",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Ministry Of Beer",
+    "address": "Vatika Grand, Near Leisure Valley, Sector 29, Gurgaon",
+    "cuisines_available": [
+      "Bar Food"
+    ],
+    "cost_per_two": "\u20b92,200",
+    "timing": "12noon \u2013 12midnight (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Pa Pa Ya",
+    "address": "A-3, Select Citywalk, District Centre, Saket, New Delhi",
+    "cuisines_available": [
+      "Asian",
+      " Chinese",
+      " Thai",
+      " Japanese"
+    ],
+    "cost_per_two": "\u20b92,500",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Sunday Brunches",
+      " Pan-Asian Delicacies",
+      " New on Gold",
+      " Irresistible Food"
+    ]
+  },
+  {
+    "hotel_name": "The All American Diner",
+    "address": "India Habitat Centre, Lodhi Road, New Delhi",
+    "cuisines_available": [
+      "American",
+      " Salad"
+    ],
+    "cost_per_two": "\u20b91,800",
+    "timing": "7am \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "Great Breakfasts"
+    ]
+  },
+  {
+    "hotel_name": "Caf\u00e9 Dori",
+    "address": "Dhan Mill Compound, 100 Feet Road, SSN Marg, Chhatarpur, New Delhi",
+    "cuisines_available": [
+      "Cafe",
+      " European",
+      " Continental"
+    ],
+    "cost_per_two": "\u20b91,600",
+    "timing": "10am \u2013 9:30pm (Mon-Sun)",
+    "feautred_in": [
+      "Great Cafes",
+      " Pet Friendly"
+    ]
+  },
+  {
+    "hotel_name": "The Kimono Club",
+    "address": "Lower Ground Floor, Chanakya Mall, Chanakyapuri, New Delhi",
+    "cuisines_available": [
+      "Asian",
+      " Japanese",
+      " Chinese"
+    ],
+    "cost_per_two": "\u20b92,500",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "United Coffee House",
+    "address": "E-15, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "South Indian",
+      " Chinese",
+      " Asian",
+      " European",
+      " Mediterranean",
+      " North Indian"
+    ],
+    "cost_per_two": "\u20b92,500",
+    "timing": "9:30am \u2013 11:30pm (Mon-Sun)",
+    "feautred_in": [
+      "Legendary Outlets",
+      " Great Breakfasts"
+    ]
+  },
+  {
+    "hotel_name": "Triveni Terrace Cafe",
+    "address": "205, Tan Sen Marg, Opposite FICCI Auditorium, Mandi House",
+    "cuisines_available": [
+      "Healthy Food",
+      " North Indian",
+      " Kebab"
+    ],
+    "cost_per_two": "\u20b9400",
+    "timing": "10am \u2013 9pm (Mon-Sat),12noon \u2013 9pm (Sun)",
+    "feautred_in": [
+      "Legendary Outlets",
+      " Great Cafes"
+    ]
+  },
+  {
+    "hotel_name": "Juggernaut",
+    "address": "HS-16, Main Market, Kailash Colony, New Delhi",
+    "cuisines_available": [
+      "South Indian",
+      " North Indian",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b9700",
+    "timing": "6am \u2013 11pm (Mon-Sun)",
+    "feautred_in": [
+      "South Indian Delights",
+      " For The Family"
+    ]
+  },
+  {
+    "hotel_name": "Burma Burma",
+    "address": "Shop 6, Ground Floor, Building 8, Tower C, Cyber Hub, DLF Cyber City, Gurgaon",
+    "cuisines_available": [
+      "Asian",
+      " Burmese",
+      " Bubble Tea",
+      " Desserts",
+      " Salad"
+    ],
+    "cost_per_two": "\u20b91,600",
+    "timing": "12noon \u2013 3pm, 7pm \u2013 11pm (Mon-Fri),12noon \u2013...",
+    "feautred_in": [
+      "Pan-Asian Delicacies",
+      " Veggie Friendly",
+      " For The Family",
+      " Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "Cafe Soul Garden",
+    "address": "Beside Supermart 2, DLF Phase 4, Gurgaon",
+    "cuisines_available": [
+      "Cafe",
+      " Continental",
+      " Italian",
+      " Pizza"
+    ],
+    "cost_per_two": "\u20b91,300",
+    "timing": "11:30am \u2013 11:30pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "The Junkyard Cafe",
+    "address": "91, 2nd Floor, N Block, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Mediterranean",
+      " Asian",
+      " Salad",
+      " Momos"
+    ],
+    "cost_per_two": "\u20b91,500",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Boozy Bars",
+      " Where's The Party?"
+    ]
+  },
+  {
+    "hotel_name": "Impromptu",
+    "address": "Ground Floor, Vatika Towers Complex, Golf Course Road, Gurgaon",
+    "cuisines_available": [
+      "Italian",
+      " Continental",
+      " North Indian"
+    ],
+    "cost_per_two": "\u20b92,200",
+    "timing": "12noon \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "Romantic",
+      " Outdoor Seating",
+      " Artisan Cocktails",
+      " Trending This Week"
+    ]
+  },
+  {
+    "hotel_name": "Mahabelly",
+    "address": "MA-A05, Ground Floor, Restaurant Block, DLF Avenue, Saket, New Delhi",
+    "cuisines_available": [
+      "South Indian",
+      " Kerala",
+      " Seafood"
+    ],
+    "cost_per_two": "\u20b91,300",
+    "timing": "11am \u2013 11pm (Mon, Tue, Wed, Thu, Fri, Sun), 6pm...",
+    "feautred_in": [
+      "South Indian Delights"
+    ]
+  },
+  {
+    "hotel_name": "Bo Tai",
+    "address": "6/4,Kalka Das Marg, Mehrauli Road, Near Qutub Minar, Mehrauli, New Delhi",
+    "cuisines_available": [
+      "Thai"
+    ],
+    "cost_per_two": "\u20b93,500",
+    "timing": "12:30pm \u2013 3:30pm, 6:30pm \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Luxury Dining",
+      " For The Planet",
+      " Trending This Week"
+    ]
+  },
+  {
+    "hotel_name": "McDonald's",
+    "address": "P 16, Atta Market, Sector 18, Noida",
+    "cuisines_available": [
+      "Burger",
+      " Fast Food"
+    ],
+    "cost_per_two": "\u20b9500",
+    "timing": "8am \u2013 12midnight (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "SET'Z",
+    "address": "3rd Floor, DLF Emporio Mall, Nelson Mandela Marg, Vasant Kunj, New Delhi",
+    "cuisines_available": [
+      "European",
+      " Chinese",
+      " Thai",
+      " Japanese",
+      " Iranian",
+      " North Indian",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b93,200",
+    "timing": "12noon \u2013 4pm, 7pm \u2013 12midnight (Mon-Thu),12noon...",
+    "feautred_in": [
+      "Sunday Brunches",
+      " Luxury Dining",
+      " Wine & Dine"
+    ]
+  },
+  {
+    "hotel_name": "Under The Neem",
+    "address": "Karma Lakelands, NH 8, Sector 80, Near Sector 83, Gurgaon",
+    "cuisines_available": [
+      "Cafe",
+      " Continental",
+      " North Indian",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b91,400",
+    "timing": "12:30pm \u2013 10pm (Mon-Fri),12:30pm \u2013 6:30pm...",
+    "feautred_in": [
+      "For The Family",
+      " Outdoor Seating",
+      " Pet Friendly"
+    ]
+  },
+  {
+    "hotel_name": "Andhra Bhavan",
+    "address": "1, Ashoka Road, Near Feroze Shah Road, New Delhi",
+    "cuisines_available": [
+      "South Indian",
+      " Andhra"
+    ],
+    "cost_per_two": "\u20b9350",
+    "timing": "8am \u2013 10:30am, 12noon \u2013 3pm, 7:30pm \u2013 10pm...",
+    "feautred_in": [
+      "South Indian Delights",
+      " State Bhawan Canteens",
+      " Brilliant Biryanis"
+    ]
+  },
+  {
+    "hotel_name": "Markaz Cafe & Lounge",
+    "address": "49, Rama Road, Block B, Industrial Area, Moti Nagar, New Delhi",
+    "cuisines_available": [
+      "Continental",
+      " Chinese",
+      " North Indian",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b91,500",
+    "timing": "4pm \u2013 1am (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Feel Alive",
+    "address": "SCO 53, 2nd Floor, Main Market, Sector 29, Gurgaon",
+    "cuisines_available": [
+      "North Indian",
+      " Fast Food",
+      " Italian",
+      " Asian",
+      " Continental",
+      " Bar Food"
+    ],
+    "cost_per_two": "\u20b92,000",
+    "timing": "11:45am \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "Cafe Roadies",
+    "address": "Gardens Galleria Mall, Sector 38, Noida",
+    "cuisines_available": [
+      "Chinese",
+      " Continental",
+      " North Indian",
+      " Fast Food",
+      " Desserts",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b91,700",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Evergreen Sweet House",
+    "address": "S-29 & 30, Main Market, Green Park, New Delhi",
+    "cuisines_available": [
+      "Mithai",
+      " South Indian",
+      " North Indian",
+      " Chinese",
+      " Fast Food"
+    ],
+    "cost_per_two": "\u20b9500",
+    "timing": "10am \u2013 11pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Lavaash By Saby",
+    "address": "H-5/1, Ambawatta One, Kalkadass Marg, Mehrauli, New Delhi",
+    "cuisines_available": [
+      "Armenian",
+      " Bengali"
+    ],
+    "cost_per_two": "\u20b92,000",
+    "timing": "12noon \u2013 11:30pm (Mon-Sun)",
+    "feautred_in": [
+      "Insta-Worthy",
+      " Romantic"
+    ]
+  },
+  {
+    "hotel_name": "Antidot Waterbar Cafe",
+    "address": "B-6/2, 2nd Floor, Opposite Deer Park, Safdarjung, New Delhi",
+    "cuisines_available": [
+      "Continental",
+      " North Indian",
+      " Asian"
+    ],
+    "cost_per_two": "\u20b91,600",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Rooftops",
+      " Artisan Cocktails",
+      " Sneak Peek Delhi",
+      " Where's The Party?"
+    ]
+  },
+  {
+    "hotel_name": "OLLY - Olive's All Day Cafe & Bar",
+    "address": "Shop 101, 1st Floor, Cyber Hub, DLF Cyber City, Gurgaon",
+    "cuisines_available": [
+      "Cafe",
+      " Italian",
+      " Pizza",
+      " Healthy Food",
+      " Salad"
+    ],
+    "cost_per_two": "\u20b91,800",
+    "timing": "11:30am \u2013 11:30pm (Mon-Sun)",
+    "feautred_in": [
+      "Sunday Brunches",
+      " Great Cafes",
+      " Food Hygiene Rated Restaurants",
+      " Outdoor Seating",
+      " Trending This Week"
+    ]
+  },
+  {
+    "hotel_name": "Jamun",
+    "address": "17, Lodhi Colony, New Delhi",
+    "cuisines_available": [
+      "North Indian"
+    ],
+    "cost_per_two": "\u20b93,000",
+    "timing": "12noon \u2013 3:30pm, 7pm \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Insta-Worthy",
+      " Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "Cafe Uncover",
+    "address": "Plot 14, Block A, Sector 12, Dwarka, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Chinese",
+      " Seafood",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b91,000",
+    "timing": "11am \u2013 10:30pm (Mon-Thu),11am \u2013 11pm (Fri-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Nukkad Cafe & Bar",
+    "address": "C-23-24, SDA Market, SDA, New Delhi",
+    "cuisines_available": [
+      "Cafe",
+      " Chinese",
+      " North Indian",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b91,200",
+    "timing": "11:30am \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Outdoor Seating",
+      " Best of Delhi NCR",
+      " Live Music"
+    ]
+  },
+  {
+    "hotel_name": "Threesixtyone Degrees - The Oberoi",
+    "address": "The Oberoi, 443, Phase 5, Udyog Vihar, Gurgaon",
+    "cuisines_available": [
+      "Japanese",
+      " Italian",
+      " North Indian",
+      " Chinese"
+    ],
+    "cost_per_two": "\u20b95,500",
+    "timing": "5:30am \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "Mia Bella - Romantic Kitchen & Bar",
+    "address": "50 E, Hauz Khas Village, New Delhi",
+    "cuisines_available": [
+      "European",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b91,800",
+    "timing": "12noon \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "Romantic",
+      " Irresistible Food"
+    ]
+  },
+  {
+    "hotel_name": "Mithaas",
+    "address": "RN-1, B Block, Sector 62, Noida",
+    "cuisines_available": [
+      "Mithai",
+      " North Indian",
+      " South Indian",
+      " Street Food",
+      " Chinese"
+    ],
+    "cost_per_two": "\u20b9550",
+    "timing": "8am \u2013 10pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "The House Of Celeste",
+    "address": "32nd Avenue, NH 8, Part 2, Sector 15, Gurgaon",
+    "cuisines_available": [
+      "Modern Indian"
+    ],
+    "cost_per_two": "\u20b92,200",
+    "timing": "12noon \u2013 3:30pm, 7pm \u2013 12midnight...",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Greenr Cafe",
+    "address": "01, 32nd Avenue, Sector 15, Gurgaon",
+    "cuisines_available": [
+      "Cafe",
+      " Healthy Food",
+      " Mexican",
+      " Continental",
+      " Salad",
+      " Desserts"
+    ],
+    "cost_per_two": "\u20b91,000",
+    "timing": "12noon \u2013 10pm (Mon-Sun)",
+    "feautred_in": [
+      "Great Cafes",
+      " Irresistible Food",
+      " Best of Gold",
+      " Counting Calories? Try These Places",
+      " New on Gold",
+      " Veggie Friendly",
+      " Pet Friendly"
+    ]
+  },
+  {
+    "hotel_name": "Ardor 29",
+    "address": "SCO 25, Main Market, Sector 29, Gurgaon",
+    "cuisines_available": [
+      "Finger Food",
+      " North Indian",
+      " Continental",
+      " Italian"
+    ],
+    "cost_per_two": "\u20b92,200",
+    "timing": "12noon \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "Rooftops",
+      " Where's The Party?"
+    ]
+  },
+  {
+    "hotel_name": "Barish Moon Bar & Brewery",
+    "address": "Near Worlds Of Wonder, Gardens Galleria Mall, Sector 38 A, Sector 38, Noida",
+    "cuisines_available": [
+      "North Indian",
+      " Chinese",
+      " Continental",
+      " Desserts",
+      " Salad"
+    ],
+    "cost_per_two": "\u20b91,500",
+    "timing": "12noon \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "Rooftops"
+    ]
+  },
+  {
+    "hotel_name": "Whisky Samba",
+    "address": "Plaza Level, Two Horizon Center, Golf Course Road, Gurgaon",
+    "cuisines_available": [
+      "Asian",
+      " Sushi",
+      " Seafood"
+    ],
+    "cost_per_two": "\u20b93,800",
+    "timing": "12noon \u2013 3:30pm, 5:30pm \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Artisan Cocktails"
+    ]
+  },
+  {
+    "hotel_name": "The Piano Man",
+    "address": "32nd Avenue, Part 2, Sector 15, Gurgaon",
+    "cuisines_available": [
+      "Continental",
+      " Italian",
+      " Mexican",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b91,800",
+    "timing": "12noon \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "Live Music",
+      " Artisan Cocktails"
+    ]
+  },
+  {
+    "hotel_name": "Ministry Of Sound",
+    "address": "Shop GGL - 337/C1, 2nd Floor, Gardens Galleria, Sector 38, Noida",
+    "cuisines_available": [
+      "Bar Food",
+      " Finger Food"
+    ],
+    "cost_per_two": "\u20b91,200",
+    "timing": "12noon \u2013 1:30am (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Oh! Calcutta",
+    "address": "Ground Floor, E Block, Opposite Satyam Cinema, Nehru Place, New Delhi",
+    "cuisines_available": [
+      "Bengali",
+      " Seafood"
+    ],
+    "cost_per_two": "\u20b91,900",
+    "timing": "12:30pm \u2013 3:30pm, 7:30pm \u2013 11:30pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Raftaar - The High Speed Lounge & Bar",
+    "address": "15C, Club Road, Punjabi Bagh, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Italian",
+      " Continental"
+    ],
+    "cost_per_two": "\u20b91,700",
+    "timing": "12noon \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Where's The Party?"
+    ]
+  },
+  {
+    "hotel_name": "Daryaganj",
+    "address": "Shop R1, Lower Ground Floor, The Walk, Worldmark 1, Aerocity, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Mughlai"
+    ],
+    "cost_per_two": "\u20b91,500",
+    "timing": "12noon \u2013 3:30pm, 6pm \u2013 12:30am (Mon-Thu),12noon...",
+    "feautred_in": [
+      "Butter Chicken"
+    ]
+  },
+  {
+    "hotel_name": "Guppy",
+    "address": "28, Main Market, Lodhi Colony, New Delhi",
+    "cuisines_available": [
+      "Japanese",
+      " Seafood",
+      " Sushi",
+      " Pok\u00e9",
+      " Asian"
+    ],
+    "cost_per_two": "\u20b92,700",
+    "timing": "12noon \u2013 3:30pm, 7pm \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Sunday Brunches",
+      " Taste of Japan"
+    ]
+  },
+  {
+    "hotel_name": "Plats",
+    "address": "C-51, Shivalik, Malviya Nagar, New Delhi",
+    "cuisines_available": [
+      "European"
+    ],
+    "cost_per_two": "\u20b92,000",
+    "timing": "12:30pm \u2013 11pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Lost Lemons",
+    "address": "SCO 27/28, Sector 29, Gurgaon",
+    "cuisines_available": [
+      "North Indian",
+      " European",
+      " Mediterranean"
+    ],
+    "cost_per_two": "\u20b91,500",
+    "timing": "12noon \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "Newly Opened",
+      " Trending This Week"
+    ]
+  },
+  {
+    "hotel_name": "Tamra - Shangri-La's - Eros Hotel, New Delhi",
+    "address": "Level 1, Shangri-La's - Eros Hotel, 19 Ashoka Road, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Continental",
+      " European",
+      " Chinese",
+      " Thai",
+      " Japanese"
+    ],
+    "cost_per_two": "\u20b93,800",
+    "timing": "6:30am \u2013 12midnight (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Norenj Wine Dine & Fresh Beer Cafe",
+    "address": "SS Plaza Mall, Plot 1, Block A, Mayfield Gardens, Sector 47, Near South City 2, Gurgaon",
+    "cuisines_available": [
+      "Continental",
+      " Italian",
+      " Tex-Mex",
+      " North Indian",
+      " Asian"
+    ],
+    "cost_per_two": "\u20b91,800",
+    "timing": "8am \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "New on Gold",
+      " Boozy Bars",
+      " Great Breakfasts"
+    ]
+  },
+  {
+    "hotel_name": "Nueva",
+    "address": "Ground Floor, Sangam Courtyard, R K Puram, New Delhi",
+    "cuisines_available": [
+      "European",
+      " American",
+      " Asian"
+    ],
+    "cost_per_two": "\u20b93,000",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Dana Choga",
+    "address": "5 & 6, Atul Kataria Chowk, Sector 14, Gurgaon",
+    "cuisines_available": [
+      "North Indian",
+      " Chinese",
+      " Mughlai",
+      " Desserts",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b9600",
+    "timing": "11am \u2013 11pm (Mon-Sun)",
+    "feautred_in": [
+      "Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "SOHO Delhi - The Ashok",
+    "address": "The Ashok, Chanakyapuri, New Delhi",
+    "cuisines_available": [
+      "Continental",
+      " Asian",
+      " Finger Food"
+    ],
+    "cost_per_two": "\u20b95,000",
+    "timing": "Closed (Mon, Tue, Wed, Thu, Sun), 10:30pm \u2013 5am...",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Hira Sweets",
+    "address": "E-60, Vikas Marg, Laxmi Nagar, New Delhi",
+    "cuisines_available": [
+      "Mithai",
+      " North Indian",
+      " South Indian",
+      " Fast Food",
+      " Chinese",
+      " Ice Cream",
+      ""
+    ],
+    "cost_per_two": "\u20b9500",
+    "timing": "8:30am \u2013 11pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Clue",
+    "address": "27, 3rd Floor, North West Avenue, Near Axis Bank, Club Road, Punjabi Bagh, New Delhi",
+    "cuisines_available": [
+      "Finger Food",
+      " North Indian",
+      " Continental",
+      " Italian",
+      " Asian"
+    ],
+    "cost_per_two": "\u20b91,300",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Where's The Party?",
+      " Best Bars and Pubs",
+      " Best of Delhi NCR",
+      " Rooftops"
+    ]
+  },
+  {
+    "hotel_name": "Burger Singh - Big Punjabi Burgers",
+    "address": "2, Ground Floor, Suncity Business Tower, Golf Course Road, Gurgaon",
+    "cuisines_available": [
+      "Burger",
+      " Fast Food"
+    ],
+    "cost_per_two": "\u20b9400",
+    "timing": "11am \u2013 3am (Mon-Sun)",
+    "feautred_in": [
+      "Kickass Burgers",
+      " Late Night Delivery"
+    ]
+  },
+  {
+    "hotel_name": "The Burger Club",
+    "address": "Z 9, Opposite Metro Pillar 420, Rajouri Garden, New Delhi",
+    "cuisines_available": [
+      "Burger",
+      " Fast Food",
+      " Beverages"
+    ],
+    "cost_per_two": "\u20b9350",
+    "timing": "10am \u2013 4am (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Monkey Bar",
+    "address": "Plot 11, Upper Ground Floor, LSC, Pocket C 6 & 7, Vasant Kunj, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " South Indian",
+      " American",
+      " Pizza",
+      " Burger",
+      " Salad"
+    ],
+    "cost_per_two": "\u20b92,200",
+    "timing": "12noon \u2013 12midnight (Mon-Sun)",
+    "feautred_in": [
+      "Trending This Week"
+    ]
+  },
+  {
+    "hotel_name": "Playboy Club",
+    "address": "50-B, Samrat Hotel, Kautilya Marg, Chanakyapuri, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Continental",
+      " Bar Food"
+    ],
+    "cost_per_two": "\u20b94,500",
+    "timing": "Closed (Mon, Tue, Wed, Thu, Sun), 9:30pm \u2013 2am...",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "The Yellow Chilli",
+    "address": "H-1, A/31, Commercial Market, Sector 63, Noida",
+    "cuisines_available": [
+      "North Indian",
+      " Mughlai"
+    ],
+    "cost_per_two": "\u20b91,700",
+    "timing": "12noon \u2013 11:30pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "MIC Drop",
+    "address": "M-4, South Extension 2, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Chinese",
+      " Italian",
+      " Continental"
+    ],
+    "cost_per_two": "\u20b92,000",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Newly Opened"
+    ]
+  },
+  {
+    "hotel_name": "PAUL",
+    "address": "G-1, Ground Floor, Ambience Mall, DLF Phase 3, Gurgaon",
+    "cuisines_available": [
+      "Italian",
+      " European",
+      " Bakery",
+      " French"
+    ],
+    "cost_per_two": "\u20b91,500",
+    "timing": "8am \u2013 12midnight (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "The Potbelly",
+    "address": "Plot 15, Bihar Niwas, Behind Yashwant Place, Chanakyapuri, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Bihari",
+      " Fast Food"
+    ],
+    "cost_per_two": "\u20b91,000",
+    "timing": "1pm \u2013 11pm (Mon-Sun)",
+    "feautred_in": [
+      "State Bhawan Canteens"
+    ]
+  },
+  {
+    "hotel_name": "Prankster",
+    "address": "Site 8-10, Sector 29, Gurgaon",
+    "cuisines_available": [
+      "Bar Food",
+      " Modern Indian"
+    ],
+    "cost_per_two": "\u20b91,500",
+    "timing": "12:30pm \u2013 1am (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "PIND BALLUCHI",
+    "address": "13, Regal Building, Connaught Place, New Delhi",
+    "cuisines_available": [
+      "North Indian",
+      " Mughlai",
+      " Kebab"
+    ],
+    "cost_per_two": "\u20b91,300",
+    "timing": "12noon \u2013 11pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "MKT",
+    "address": "Lower Ground Floor, Chanakya Mall, Chanakyapuri, New Delhi",
+    "cuisines_available": [
+      "Asian",
+      " Mexican",
+      " Italian",
+      " North Indian",
+      " Seafood",
+      " European"
+    ],
+    "cost_per_two": "\u20b93,000",
+    "timing": "11am \u2013 12midnight (Mon-Sat),12noon \u2013 12midnight...",
+    "feautred_in": [
+      "Pan-Asian Delicacies",
+      " Ladies' Luncheon",
+      " Sneak Peek Delhi"
+    ]
+  },
+  {
+    "hotel_name": "Uncultured Cafe & Bar",
+    "address": "HS-12, Market, Kailash Colony, New Delhi",
+    "cuisines_available": [
+      "Continental",
+      " Chinese",
+      " Italian",
+      " Finger Food"
+    ],
+    "cost_per_two": "\u20b92,100",
+    "timing": "12noon \u2013 12:30am (Mon-Sun)",
+    "feautred_in": [
+      "Rooftops",
+      " Where's The Party?",
+      " New on Gold",
+      " Boozy Bars",
+      " Best of Delhi NCR"
+    ]
+  },
+  {
+    "hotel_name": "Yum Yum Cha",
+    "address": "2nd Floor, Select Citywalk Mall, Saket, New Delhi",
+    "cuisines_available": [
+      "Asian",
+      " Japanese",
+      " Sushi"
+    ],
+    "cost_per_two": "\u20b91,800",
+    "timing": "12noon \u2013 11pm (Mon-Sun)",
+    "feautred_in": ""
+  },
+  {
+    "hotel_name": "Distillery - Craft Beer & Cocktails",
+    "address": "Plot 16 & 17, Sector 29, Gurgaon",
+    "cuisines_available": [
+      "Bar Food",
+      " North Indian",
+      " Pizza",
+      " Biryani",
+      " Chinese",
+      " European",
+      " Desserts"
+    ],
+    "cost_per_two": "\u20b91,600",
+    "timing": "12noon \u2013 1am (Mon-Sun)",
+    "feautred_in": [
+      "Boozy Bars",
+      " Best of Delhi NCR"
+    ]
+  }
+]
